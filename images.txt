@@ -1,1 +1,1 @@
-haoxuan8855/crproxy:latest
+frolvlad/alpine-glibc:alpine-3.18_glibc-2.34
