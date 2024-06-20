@@ -1,1 +1,1 @@
-ubuntu:latest
+kasmweb/chrome:1.14.0-rolling
