@@ -1,1 +1,1 @@
-kasmweb/chrome:1.14.0-rolling
+kasmweb/ubuntu-jammy-desktop:1.14.0-rolling
