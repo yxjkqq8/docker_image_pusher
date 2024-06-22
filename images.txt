@@ -1,1 +1,1 @@
-kasmweb/ubuntu-jammy-desktop:1.14.0-rolling
+ubuntu:22.04
