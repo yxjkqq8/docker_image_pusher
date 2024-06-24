@@ -1,1 +1,1 @@
-ubuntu:22.04
+guptamansi/playwright-selenium-grid:v0
